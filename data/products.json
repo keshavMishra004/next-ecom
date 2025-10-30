@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Red T-Shirt",
+    "slug": "red-t-shirt",
+    "description": "Comfortable cotton red t-shirt.",
+    "price": 19.99,
+    "category": "Apparel",
+    "inventory": 12,
+    "lastUpdated": "2025-01-01T12:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Blue Jeans",
+    "slug": "blue-jeans",
+    "description": "Slim-fit blue jeans.",
+    "price": 49.99,
+    "category": "Apparel",
+    "inventory": 4,
+    "lastUpdated": "2025-01-02T12:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Wireless Mouse",
+    "slug": "wireless-mouse",
+    "description": "Ergonomic wireless mouse.",
+    "price": 29.5,
+    "category": "Electronics",
+    "inventory": 22,
+    "lastUpdated": "2025-01-03T12:00:00.000Z"
+  }
+]
