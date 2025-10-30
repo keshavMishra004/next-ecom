@@ -1,7 +1,7 @@
 # Next.js E-commerce Starter
 
-Name: [Your Name]
-Date: [YYYY-MM-DD]
+Name: Keshav Mishra
+Date: 31-10-2025
 
 Run:
 1. Copy .env.example to .env and set ADMIN_KEY.
